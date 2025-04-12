@@ -1,4 +1,4 @@
-# Emergency Response Application
+# ZenT Application
 
 This application provides an emergency response system with image-based emergency classification using a TensorFlow Lite model.
 
